@@ -5,7 +5,7 @@ Python version 3 is required fo this project.
 
 Open a terminal window and run the following command to install Python venv:
 
-sudo apt install python3.8-venv
+**sudo apt install python3.8-venv**
 
 Create a virtual environment and activate it by executing the following commands:​
 
